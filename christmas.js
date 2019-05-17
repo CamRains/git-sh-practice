@@ -5,10 +5,10 @@ const christmas = {
     day4: "",
     day5: "",
     day6: "",
-    day7: "",
+    day7: "wooooahh",
     day8: "",
     day9: "",
-    day10: "",
+    day10: "yuppp yupp",
     day11: "",
     day12: ""
   };
