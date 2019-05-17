@@ -2,13 +2,13 @@ const christmas = {
     day1: "hello",
     day2: "there",
     day3: "cinderella man",
-    day4: "",
-    day5: "",
-    day6: "",
-    day7: "wooooahh",
-    day8: "",
-    day9: "",
-    day10: "yuppp yupp",
-    day11: "",
-    day12: ""
+    day4: "whats good",
+    day5: "hello",
+    day6: "what dooooo youuuuuu meme",
+    day7: "IM ANGRY",
+    day8: "ANNNNGRRRYYYYY",
+    day9: "WHAT",
+    day10: "DO ",
+    day11: "YOU",
+    day12: "MEME"
   };
